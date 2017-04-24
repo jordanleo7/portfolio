@@ -1,0 +1,21 @@
+.navbar {
+  margin-bottom: 0;
+}
+
+/* .jumbotron {
+  background-color: black;
+  background-image: url(../images/IMG_2375.jpg);
+  background-size: cover;
+} */
+
+.gradientBackground {
+    background: #0D738C; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#0D738C, #E52405); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#0D738C, #E52405); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#0D738C, #E52405); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#0D738C, #E52405); /* Standard syntax (must be last) */
+}
+
+.redBackground {
+  background-color: #CA3544;
+}
