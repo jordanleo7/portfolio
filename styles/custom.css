@@ -2,10 +2,30 @@
   margin-bottom: 0;
 }
 
-.grayLighterBackground {
-  background: #eee;
+.lightGrayBackground {
+  background: #F5F6F7;
 }
 
-.grayLightBackground {
-  background: #555;
+.chalkBackground {
+  background: #2A2A2A;
+}
+
+* {
+  font-family: 'Varela Round', sans-serif;
+}
+
+.navbar-default {
+  border-radius: 0;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  background: #FFF;
+}
+
+a {
+  color: #34A3F8;
+}
+
+.extra-margin {
+  margin-right: 15px;
 }
