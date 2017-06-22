@@ -29,3 +29,12 @@ a {
 .extra-margin {
   margin-right: 15px;
 }
+
+.navbar-default .navbar-nav > li > a:link, .navbar-default .navbar-nav > li > a:focus {
+    color: #34A3F8;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background-color: #F5F6F7;
+    color: navy;
+}
