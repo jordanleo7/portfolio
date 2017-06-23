@@ -38,3 +38,21 @@ a {
     background-color: #F5F6F7;
     color: navy;
 }
+
+@media (max-width: 750px) {
+  .aboutMePhoto {
+    display: block;
+    height: auto;
+    max-width: 50%;
+    margin-bottom: 14px;
+  }
+}
+
+@media (min-width: 751px) {
+  .aboutMePhoto {
+    display: block;
+    height: auto;
+    max-width: 80%;
+    margin-bottom: 14px;
+  }
+}
