@@ -3,11 +3,19 @@
 }
 
 .lightGrayBackground {
-  background: #F5F6F7;
+  background: #F6F6F6;
 }
 
 .chalkBackground {
   background: #2A2A2A;
+}
+
+.whiteText {
+  color: white;
+}
+
+.blueGradientBackground {
+  background-image: linear-gradient( 135deg, #ABDCFF 0%, #0396FF 100%);
 }
 
 * {
