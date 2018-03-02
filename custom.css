@@ -1,0 +1,9 @@
+* {
+  font-family: 'Varela Round', sans-serif;
+}
+
+.jumbotron {
+  background-color: #6DBDD6;
+  color: #000000;
+  border-radius: 0;
+}
